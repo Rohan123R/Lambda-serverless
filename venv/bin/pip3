@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' /home/shreevardhan/PES2UG22CS251_PES2UG22CS258_PES2UG22CS275_PES2UG22CS908_Lamda_serverless_function-main/PES2UG22CS251_PES2UG22CS258_PES2UG22CS275_PES2UG22CS908_Lamda_serverless_function-main/venv/bin/python "$0" "$@"
-' '''
+#!/home/rohan/lambda-serverless/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
