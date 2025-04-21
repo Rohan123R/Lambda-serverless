@@ -130,29 +130,11 @@ DELETE /functions/{id}                # Delete a function
 
 <hr>
 
-<h2>📌 Notes</h2>
-<ul>
-  <li>Uses Docker and optionally gVisor (ensure both are installed and configured)</li>
-  <li>Execution is sandboxed with timeout and resource control</li>
-  <li>SQLite3 is used for persistent storage (no external DB needed)</li>
-</ul>
+<hr>
+
 
 <hr>
 
-<h2>🎯 Future Improvements</h2>
-<ul>
-  <li>Multi-language support (Go, Ruby, etc.)</li>
-  <li>Auto-scaling execution pools</li>
-  <li>Integrated billing/cost tracking system</li>
-  <li>Authentication and function sharing</li>
-</ul>
-
-<hr>
-
-<h2>👨‍💻 Author</h2>
-
-<p>Developed by <strong>pes2ug22cs258,pes2ug22cs251,pes2ug22cs270,pes2ug22cs908</strong></p>
-<p>Feel free to ⭐ the repo and contribute!</p>
 
 <hr>
 
